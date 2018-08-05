@@ -1,0 +1,10 @@
+Package: com.lizynz.respring10
+Name: Respring10
+Description: Fix respring for mach_portal+yalu-b3
+Version: 1.0
+Priority: optional
+Section: Addons (Flipswitch)
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, com.a3tweaks.flipswitch
+Maintainer: Lizynz
+Author: Lizynz
